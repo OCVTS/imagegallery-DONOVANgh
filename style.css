@@ -55,3 +55,7 @@ footer {
     visibility: hidden;
     opacity: 0;
 }
+#lightboxx.visible {
+    visibility: visible;
+    opacity: 1;
+}
