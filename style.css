@@ -63,3 +63,9 @@ footer {
 .lightbox-content img {
     border-radius: 5px;
 }
+
+.lightbox-content {
+   position: relative;
+   display: flex;
+   align-items: center                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              ;
+}
